@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/priyal-shah-portfolios-projects/v0-new-project-fv2e2p0ryz9](https://vercel.com/priyal-shah-portfolios-projects/v0-new-project-fv2e2p0ryz9)**
+**https://v0-new-project-fv2e2p0ryz9.vercel.app**
 
 ## Build your app
 
