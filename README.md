@@ -16,6 +16,10 @@ Your project is live at:
 
 **https://v0-new-project-fv2e2p0ryz9.vercel.app**
 
+## How it works
+
+[View the pdf](Vanity-Dashboard.pdf)
+
 ## Build your app
 
 Continue building your app on:
