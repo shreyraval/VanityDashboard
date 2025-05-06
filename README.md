@@ -18,7 +18,7 @@ Your project is live at:
 
 ## How it works
 
-[View the pdf](VanityDashboard/Vanity-Dashboard.pdf)
+[View the pdf](Vanity%20Dashboard.pdf)
 
 ## Build your app
 
